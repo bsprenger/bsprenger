@@ -16,7 +16,6 @@ A quick snapshot:
     * [arXiv](https://arxiv.org/search/eess?searchtype=author&query=Sprenger,+B)
 * 🤗 [Hugging Face Space](https://huggingface.co/bensprenger)
 
-Let's build something amazing together! 😊
 
 <!--
 **bsprenger/bsprenger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
