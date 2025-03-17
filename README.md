@@ -16,6 +16,13 @@ A quick snapshot:
     * [arXiv](https://arxiv.org/search/eess?searchtype=author&query=Sprenger,+B)
 * 🤗 [Hugging Face Space](https://huggingface.co/bensprenger)
 
+## 🌍 Open Source Contributions
+
+I'm passionate about collaborating with open-source communities. Here are some contributions I've made:
+
+### [Hugging Face's LeRobot](https://github.com/huggingface/lerobot)
+* a
+* b
 
 <!--
 **bsprenger/bsprenger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
