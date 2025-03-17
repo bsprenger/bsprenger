@@ -21,7 +21,7 @@ A quick snapshot:
 I'm passionate about collaborating with open-source communities. Here are some contributions I've made:
 
 ### [Hugging Face's LeRobot](https://github.com/huggingface/lerobot)
-* [PR](https://github.com/huggingface/lerobot/commit/05b54733daee0397e4df5037aa4022281e6fa574)
+* [PR](https://github.com/huggingface/lerobot/pull/80705b54733daee0397e4df5037aa4022281e6fa574)
 
 ## 📚 Bio
 
