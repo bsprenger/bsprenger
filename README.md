@@ -24,6 +24,9 @@ I'm passionate about collaborating with open-source communities. Here are some c
 * a
 * b
 
+## 📚 Bio
+
+## 🔗 Links
 <!--
 **bsprenger/bsprenger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
