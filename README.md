@@ -4,28 +4,41 @@ I'm a robotics engineer interested in:
 * Reinforcement Learning
 * Control Theory
 * Optimization
+* Quantum computing
 
-A quick snapshot:
 
-<!-- * 🚀 Projects & PRs:
-    * Projects
-    * PRs
-* 🏎️ Industry Experience: Quantum computing sofware, Formula 1, battery engineering, and more. -->
-* 📚 Publications:
-    * [Google Scholar](https://scholar.google.com/citations?user=NXP4kkUAAAAJ&hl=en)
-    * [arXiv](https://arxiv.org/search/eess?searchtype=author&query=Sprenger,+B)
-* 🤗 [Hugging Face Space](https://huggingface.co/bensprenger)
+## 🚀 Projects
+
+🏗️ Under construction 🚧
 
 ## 🌍 Open Source Contributions
 
 I'm passionate about collaborating with open-source communities. Here are some contributions I've made:
 
 ### [Hugging Face's LeRobot](https://github.com/huggingface/lerobot)
-* [PR](https://github.com/huggingface/lerobot/pull/80705b54733daee0397e4df5037aa4022281e6fa574)
+* [add support for external plugin config dataclasses](https://github.com/huggingface/lerobot/pull/807)
+* (open) [add remove_episodes utility](https://github.com/huggingface/lerobot/pull/831)
 
 ## 📚 Bio
 
+🏗️ Under construction 🚧
+
+<!-- * 🚀 Projects & PRs:
+    * Projects
+    * PRs
+* 🏎️ Industry Experience: Quantum computing sofware, Formula 1, battery engineering, and more. -->
+
+
 ## 🔗 Links
+
+### Socials
+* [linkedin](linkedin.com/in/bensprenger)
+* 🤗 [Hugging Face Space](https://huggingface.co/bensprenger)
+
+### 📚 Publications:
+* [Google Scholar](https://scholar.google.com/citations?user=NXP4kkUAAAAJ&hl=en)
+* [arXiv](https://arxiv.org/search/eess?searchtype=author&query=Sprenger,+B)
+
 <!--
 **bsprenger/bsprenger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
