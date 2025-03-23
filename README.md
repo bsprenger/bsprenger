@@ -9,7 +9,7 @@ I'm a robotics engineer interested in:
 
 ## 🚀 Projects
 
-🏗️ Under construction 🚧
+* [AMSwarm 2.0](https://github.com/bsprenger/AMSwarm): An **ultra-fast** drone swarm trajectory planning algorithm written in C++ with Python bindings
 
 ## 🌍 Open Source Contributions
 
