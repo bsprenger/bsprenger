@@ -1,6 +1,6 @@
 ## Hey, I'm Ben! 👋
 
-I'm a robotics engineer interested in:
+I'm a robotics & controls engineer interested in:
 * Reinforcement Learning
 * Control Theory
 * Optimization
@@ -26,13 +26,8 @@ I'm passionate about collaborating with open-source communities. Here are some c
 
 ## 📚 Bio
 
-🏗️ Under construction 🚧
-
-<!-- * 🚀 Projects & PRs:
-    * Projects
-    * PRs
-* 🏎️ Industry Experience: Quantum computing sofware, Formula 1, battery engineering, and more. -->
-
+* BASc Mechanical Engineering @ University of Toronto
+* MSc Robotics, Systems & Control @ ETH Zurich
 
 ## 🔗 Links
 
@@ -44,17 +39,3 @@ I'm passionate about collaborating with open-source communities. Here are some c
 * [Google Scholar](https://scholar.google.com/citations?user=NXP4kkUAAAAJ&hl=en)
 * [arXiv](https://arxiv.org/search/eess?searchtype=author&query=Sprenger,+B)
 
-<!--
-**bsprenger/bsprenger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
