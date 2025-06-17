@@ -1,10 +1,9 @@
 ## Hey, I'm Ben! 👋
 
-I'm a robotics & controls engineer interested in:
+I'm a **robotics & controls engineer** interested in:
 * Reinforcement Learning
 * Control Theory
 * Optimization
-* Quantum computing
 
 
 ## 🚀 Projects
