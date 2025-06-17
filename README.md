@@ -18,10 +18,11 @@ I'm a robotics & controls engineer interested in:
 
 ## 🌍 Open Source Contributions
 
-I'm passionate about collaborating with open-source communities. Here are some contributions I've made:
+I'm passionate about collaborating with open-source communities. Here are some contributions I'm proud of:
 
 ### [Hugging Face's LeRobot](https://github.com/huggingface/lerobot)
 * [add support for external plugin config dataclasses](https://github.com/huggingface/lerobot/pull/807)
+* (open) [introduce explicit gym ID handling in EnvConfig/factory](https://github.com/huggingface/lerobot/pull/1008)
 * (open) [add remove_episodes utility](https://github.com/huggingface/lerobot/pull/831)
 
 ## 📚 Bio
