@@ -19,9 +19,13 @@ I'm a **robotics & controls engineer** interested in:
 
 I'm passionate about collaborating with open-source communities. Here are some contributions I'm proud of:
 
-### [Hugging Face's LeRobot](https://github.com/huggingface/lerobot)
+### [torchRL (PyTorch Foundation)](https://github.com/pytorch/rl)
+* [[Feature] Auto-configure exploration module specs from environment in Collector](https://github.com/pytorch/rl/pull/3317)
+* Various config classes, e.g. [TanhModule](https://github.com/pytorch/rl/pull/3255) and [TensorDictSequential](https://github.com/pytorch/rl/pull/3248)
+
+### [LeRobot (Hugging Face)](https://github.com/huggingface/lerobot)
 * [add support for external plugin config dataclasses](https://github.com/huggingface/lerobot/pull/807)
-* (open) [introduce explicit gym ID handling in EnvConfig/factory](https://github.com/huggingface/lerobot/pull/1008)
+* [introduce explicit gym ID handling in EnvConfig/factory](https://github.com/huggingface/lerobot/pull/2234)
 * (open) [add remove_episodes utility](https://github.com/huggingface/lerobot/pull/831)
 
 ## 📚 Bio
