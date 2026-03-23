@@ -20,6 +20,7 @@ I'm a **robotics & controls engineer** interested in:
 They say the best way to learn software is by contributing to open-source projects. Here are some contributions I'm proud of:
 
 ### [pytorch/rl](https://github.com/pytorch/rl)
+* State-of-the-art RL algorithm implementations ([Link](https://github.com/pytorch/rl/pull/3557))
 * A more advanced and flexible optimization API for the RL trainer ecosystem ([Link](https://github.com/pytorch/rl/pull/3468))
 * Auto-configuration of exploration module specs from RL environments ([Link](https://github.com/pytorch/rl/pull/3317))
 * Various small improvements, such as:
@@ -27,9 +28,7 @@ They say the best way to learn software is by contributing to open-source projec
   * config classes, e.g. [TanhModule](https://github.com/pytorch/rl/pull/3255) and [TensorDictSequential](https://github.com/pytorch/rl/pull/3248)
 
 ### [🤗 LeRobot](https://github.com/huggingface/lerobot)
-* [add support for external plugin config dataclasses](https://github.com/huggingface/lerobot/pull/807)
-* [introduce explicit gym ID handling in EnvConfig/factory](https://github.com/huggingface/lerobot/pull/2234)
-* (open) [add remove_episodes utility](https://github.com/huggingface/lerobot/pull/831)
+* Support for external plugins for simulation environments ([1](https://github.com/huggingface/lerobot/pull/807), [2](https://github.com/huggingface/lerobot/pull/2234))
 
 ## 📚 Bio
 
