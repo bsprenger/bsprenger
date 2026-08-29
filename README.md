@@ -1,10 +1,12 @@
 ## Hey, I'm Ben! 👋
 
 I'm a **robotics & controls engineer** interested in:
-* Reinforcement Learning
-* Control Theory
+* World models, reinforcement learning, & physical AI
+* Control theory
 * Optimization
 
+I currently work on self-driving vehicles at [Kodiak AI](https://kodiak.ai/). Here's an example: look at these **huge** driverless trucks running my code, hauling 100s of tons, operating autonomously 24/7 for customers!
+<img width="1054" height="646" alt="image" src="https://github.com/user-attachments/assets/0011822c-3407-4938-bf0b-0e85e1b131f7" />
 
 ## 🚀 Projects
 
