@@ -1,12 +1,18 @@
 ## Hey, I'm Ben! 👋
 
 I'm a **robotics & controls engineer** interested in:
-* World models, reinforcement learning, & physical AI
+* Reinforcement learning
+* Physics simulation and world models
 * Control theory
 * Optimization
 
-I currently work on self-driving vehicles at [Kodiak AI](https://kodiak.ai/). Here's an example: look at these **huge** driverless trucks running my code, hauling 100s of tons, operating autonomously 24/7 for customers!
+By day, I currently work on self-driving vehicles at [Kodiak AI](https://kodiak.ai/).
+By night, I maintain [TorchRL](https://github.com/pytorch/rl), PyTorch's official reinforcement learning library.
+
+Here's an example of what I do: look at these **driverless** trucks running my code, operating autonomously 24/7 with nobody in the cab!
 <img width="1054" height="646" alt="image" src="https://github.com/user-attachments/assets/0011822c-3407-4938-bf0b-0e85e1b131f7" />
+
+Read more about these trucks [here](https://kodiak.ai/news/driverless-triple-trailers-permian-basin).
 
 ## 🚀 Projects
 
