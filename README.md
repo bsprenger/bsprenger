@@ -6,7 +6,7 @@ I'm a **robotics & controls engineer** interested in:
 * Control theory
 * Optimization
 
-By day, I currently work on self-driving vehicles at [Kodiak AI](https://kodiak.ai/).
+By day, I work on autonomous vehicles at [Kodiak AI](https://kodiak.ai/).
 By night, I maintain [TorchRL](https://github.com/pytorch/rl), PyTorch's official reinforcement learning library.
 
 Here's an example of what I do: look at these **driverless** trucks running my code, operating autonomously 24/7 with nobody in the cab!
